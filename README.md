@@ -1,6 +1,6 @@
 # InAmigos Foundation — Website Redesign (Product & UX Case Study)
 
-A UX audit, prioritized recommendations, and a fully interactive redesign concept for [InAmigos Foundation](https://inamigosfoundation.org.in)'s website, built during my Product & UX internship with the organization.
+A UX audit, prioritized recommendations, and a fully interactive redesign concept for [InAmigos Foundation](https://inamigosfoundation.org.in)'s website, built during my Web Development internship with the organization.
 
 **🔗 Live demo:** _add your GitHub Pages link here after publishing (see below)_
 **📊 Full case study deck:** [`docs/InAmigos_CaseStudy_Deck.pptx`](docs/InAmigos_CaseStudy_Deck.pptx)
